@@ -1,19 +1,3 @@
 # Vislice
 
-Matematiki:
-
-Jurij Vega
-Josip Plemelj
-Ivan Vidav
-
-
-Predsednik države:
-
-Borut Pahor
-Predsednik vlade:
-
-Janez Janša
-
-
-Predsednik SDS: 
-Janez Janša
+To je vaja za projekt pri predmetu uvod v programiranje
