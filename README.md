@@ -1,3 +1,3 @@
 # Vislice
 
-To je vaja za projekt pri predmetu uvod v programiranje
+To je vaja za projekt.
